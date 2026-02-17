@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Discord (Auto-Update)
+Comment=All-in-one voice and text chat for gamers
+Exec=/home/kyle/Documents/Scripts/discord-updater.sh
+Icon=discord
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+StartupWMClass=discord
