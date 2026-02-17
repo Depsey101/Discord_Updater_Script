@@ -11,7 +11,7 @@ with an accompanying desktop launcher, I could launch Discord in one click from 
 handles checking for and installing updates if there are any, and launching the Discord app.
 
 ###### NOTES ######
-Basically, I utilized the script by putting it in a directory of my choosing (I was using "~/Documents/Scripts") and creating a custom
+Basically, I utilized the script by putting it in a directory of my choosing (I was using "\~/Documents/Scripts") and creating a custom
 dock launcher placed at "~/.local/share/applications/discord-updater.desktop" that replaced the actual Discord in my dock. It works (at time of writing) on
 Ubuntu Desktop 25.10 (the only system I have tested it on) but I expect support would be pretty good across Debian based distros. Take a look at the script
 for yourself and make your own adjustments. The code is commented pretty well so I'm not going to explain functionality again here.
